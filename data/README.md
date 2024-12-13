@@ -1,6 +1,9 @@
 # Data Folders
 
-These contain the data and data outputs after modeling. Note files in the RAW folder should not be modified once acquired.
+These folders contain the data and data outputs after modeling.
+
+Note: Files are not updated in the GitHub repository. Coloborators should request the RAW data files from Me at: david.i.board@usda.gov or reno.mogen.david@gmail.com or Dave_Board@outlook.com
+Note: Files in the RAW folder should not be modified once acquired.
 
 This folder is organiszed based on the Data Pipeline described in [Hitchhikers Guide to Data Science - Data pipeline](https://github.com/dssg/hitchhikers-guide/blob/master/sources/curriculum/0_before_you_start/pipelines-and-project-workflow/README.md#data-pipelines) section as transcribed below
 
