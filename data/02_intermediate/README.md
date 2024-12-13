@@ -1,0 +1,3 @@
+# Intermediate Data
+
+This folder contains intermediate data that has been cleaned. This data has been cleaned to so that it is ready to be prepared for modeling. Missing values have been standardized, columns have been renamed, and data types have been converted. However, it may not be ready for analysis. Data may also have been restructured to make it easier to work with. Data from different sources ma have been combined and standardized to create a useable dataset.
