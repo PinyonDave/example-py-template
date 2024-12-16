@@ -1,0 +1,3 @@
+# Manuscript Notebooks
+
+These notebooks are used to finalize the figure, tables and maps for the final manuscript. It should only contain the notebooks used to prepare the manuscript. If these change they they should be moved out of this folder (they can be archived in a folder in the reporting folder but should not be kept in this folder). These should eventaully be used to create scripts for the final figures. They will also be used to develop the notebooks and scripts for the data-archive but these may be different than the notebooks in the data_archive notebook folder which will be used to develop the scripts to create the data and code archive. 
