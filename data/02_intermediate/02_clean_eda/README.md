@@ -1,1 +1,1 @@
-Collect EDA reports, visualizations and maps for the clean data here. The code used to create these products maybe used in the final reporting and in ther data_archive_manuscript scripts.
+This is the alpha level EDA reports, visualizations and maps for the clean data. The code used to create these products maybe used in the reporting and in ther data_archive_manuscript scripts but the products themselves are not meant to be reported or used other than to gain a quick understanding of the data.
