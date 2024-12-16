@@ -4,6 +4,6 @@ This folder contains the processed data. This data is prepared so that it can be
 
 The notebook data_processing.ipynb contains the code that processes the intermediate data. The processed data is saved in this folder. Once the notebook has been finalized a script will be created to process the data. The script will be saved in the scripts folder.
 
-This is tha last step in the data pipeline. The processed data is used to train the models. The models are then used to make predictions.
+This is tha last step in the data pipeline. The processed data is specifically designed used to train the models and is unlikely to be useful outside of that context although some EDA may be conducted to insure that the data processing steps are correct. The models are then used to make predictions.
 
 The data is stored in the following files:
