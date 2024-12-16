@@ -1,6 +1,7 @@
 # Notebooks folder
 
 These folders contain Jupyter Notebooks that are used to process data, generate figures, and perform analyses. The general workflow is to prototype and document code in a notebook, then create a functions that can:
+
     * import the data
     * clean the data
         * explore the data
