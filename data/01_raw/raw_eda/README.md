@@ -1,1 +1,1 @@
-Any exploratory data analysis reports, visualizations and maps created in preperation of cleaning and understanding the raw data can be stored here.
+Any exploratory data analysis reports, visualizations and maps created in preperation of cleaning and understanding the raw data can be stored here. These outputs are working files and are not used in reporting.
