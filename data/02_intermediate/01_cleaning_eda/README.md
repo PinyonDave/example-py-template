@@ -1,1 +1,1 @@
-Collect any tables, visualizations, maps or reports created in the process of cleaning the data here.
+Collect any tables, visualizations, maps or reports created in the process of cleaning the data here. This are used in understanding how the data may need to be cleaned. They are not used in reporting.
