@@ -3,7 +3,7 @@
 These should be the final scripts:
 
 - Acquire the data (d01_data)
-- Clean the data (d02_intermediate)
+- Prepare the database (d02_intermediate)
 - Process the data for modeling (d03_processing)
 - Model or analyze the data (d04_models)
 - Evaluate the models (d05_model_evaluation)
